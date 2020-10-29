@@ -1,0 +1,19 @@
+{
+  "name": "sample-openshift-node-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tompage1994/sample-openshift-node-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tompage1994/sample-openshift-node-api/issues"
+  },
+  "homepage": "https://github.com/Tompage1994/sample-openshift-node-api#readme"
+}
